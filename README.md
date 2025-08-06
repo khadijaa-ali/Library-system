@@ -1,2 +1,2 @@
 # Library-system
-This is my GitHub profile README – showing my projects, skills, and learning journey.
+A simple command-line app for managing book records using Python and CSV.
